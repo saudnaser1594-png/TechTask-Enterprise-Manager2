@@ -1,2 +1,41 @@
-# TechTask-Enterprise-Manager2
-A professional C# WPF desktop solution for task management, featuring JSON data persistence and a clean enterprise-grade architecture
+# 👋 أهلاً بك، أنا سعود الدهام
+
+### مطور حلول سطح مكتب (Desktop Solutions Developer) | متخصص في علوم الحاسب
+
+---
+
+### 📝 نبذة عني
+أنا مبرمج شغوف ببناء تطبيقات سطح مكتب قوية وفعالة. أركز بشكل أساسي على معمارية البرمجيات وهندسة البيانات لتقديم تجربة مستخدم سلسة واحترافية.
+
+- 🚀 أعمل حالياً على تطوير مشروع: **[TechTask-Enterprise-Manager](https://github.com/saudaldeham/TechTask-Enterprise-Manager)**.
+- 🏗️ أهتم جداً بنظافة الكود (Clean Code) وتطبيق أنماط التصميم مثل **MVVM**.
+- 💡 أؤمن بأن الحلول البرمجية العظيمة تبدأ من فهم عميق لقواعد البيانات.
+
+---
+
+### 🛠️ مهاراتي التقنية (Tech Stack)
+
+- **اللغات البرمجية:** C#, SQL.
+- **التقنيات الإطارية:** .NET, WPF (Windows Presentation Foundation).
+- **إدارة البيانات:** SQL Server, JSON Persistence.
+- **الأدوات:** Visual Studio, Git & GitHub.
+
+---
+
+### 🌟 المشروع المميز
+#### [TechTask-Enterprise-Manager]
+نظام إدارة مهام احترافي يعتمد على تقنية **WPF**، يبرز مهاراتي في التعامل مع واجهات المستخدم المعقدة وحفظ البيانات باستخدام **JSON**.
+- **الميزات:** واجهة عصرية، حفظ تلقائي للبيانات، كود منظم بمعمارية MVVM.
+
+---
+
+### 📫 تواصل معي
+يمكنك الوصول إليّ ومتابعة أعمالي من خلال:
+
+[<img src="https://img.shields.io/badge/LinkedIn-سعود_الدهام-blue?style=flat-square&logo=linkedin" />](https://www.linkedin.com/in/%D8%B3%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D9%87%D8%A7%D9%85-4262b925a)
+[<img src="https://img.shields.io/badge/Email-saudnaser1594@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:saudnaser1594@gmail.com)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saudaldeham&show_icons=true&theme=flat&hide_border=true" alt="GitHub Stats" />
+</p>
