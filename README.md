@@ -1,41 +1,43 @@
-# 👋 أهلاً بك، أنا سعود الدهام
+# 👋 Hi, I'm Saud Al-Daham
+### **Computer Science Graduate | Desktop Solutions Developer**
 
-### مطور حلول سطح مكتب (Desktop Solutions Developer) | متخصص في علوم الحاسب
-
----
-
-### 📝 نبذة عني
-أنا مبرمج شغوف ببناء تطبيقات سطح مكتب قوية وفعالة. أركز بشكل أساسي على معمارية البرمجيات وهندسة البيانات لتقديم تجربة مستخدم سلسة واحترافية.
-
-- 🚀 أعمل حالياً على تطوير مشروع: **[TechTask-Enterprise-Manager](https://github.com/saudaldeham/TechTask-Enterprise-Manager)**.
-- 🏗️ أهتم جداً بنظافة الكود (Clean Code) وتطبيق أنماط التصميم مثل **MVVM**.
-- 💡 أؤمن بأن الحلول البرمجية العظيمة تبدأ من فهم عميق لقواعد البيانات.
 
 ---
 
-### 🛠️ مهاراتي التقنية (Tech Stack)
+### **🔭 About Me**
+A dedicated Software Engineering student and developer with a passion for building robust, clean, and scalable desktop applications. I focus on creating efficient systems using **C#** and **WPF**, ensuring high-quality code and seamless user experiences.
 
-- **اللغات البرمجية:** C#, SQL.
-- **التقنيات الإطارية:** .NET, WPF (Windows Presentation Foundation).
-- **إدارة البيانات:** SQL Server, JSON Persistence.
-- **الأدوات:** Visual Studio, Git & GitHub.
-
----
-
-### 🌟 المشروع المميز
-#### [TechTask-Enterprise-Manager]
-نظام إدارة مهام احترافي يعتمد على تقنية **WPF**، يبرز مهاراتي في التعامل مع واجهات المستخدم المعقدة وحفظ البيانات باستخدام **JSON**.
-- **الميزات:** واجهة عصرية، حفظ تلقائي للبيانات، كود منظم بمعمارية MVVM.
+- 🛠️ Currently developing: **[TechTask-Enterprise-Manager](https://github.com/saudaldeham/TechTask-Enterprise-Manager)**
+- 🎯 Goal: To build high-performance software that solves real-world enterprise problems.
+- 💡 Core Philosophy: "Clean code is not just written; it's engineered."
 
 ---
 
-### 📫 تواصل معي
-يمكنك الوصول إليّ ومتابعة أعمالي من خلال:
+### **💻 Technical Toolbox**
 
-[<img src="https://img.shields.io/badge/LinkedIn-سعود_الدهام-blue?style=flat-square&logo=linkedin" />](https://www.linkedin.com/in/%D8%B3%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D9%87%D8%A7%D9%85-4262b925a)
-[<img src="https://img.shields.io/badge/Email-saudnaser1594@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:saudnaser1594@gmail.com)
+* **Languages:** C#, SQL (T-SQL)
+* **Frameworks:** .NET / WPF (Windows Presentation Foundation)
+* **Database & Storage:** SQL Server, JSON Persistence
+* **Methodologies:** MVVM Architecture, OOP, Solid Principles
+* **Tools:** Visual Studio, Git & GitHub
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saudaldeham&show_icons=true&theme=flat&hide_border=true" alt="GitHub Stats" />
+
+### **📂 Featured Project**
+#### **[TechTask-Enterprise-Manager](https://github.com/saudaldeham/TechTask-Enterprise-Manager)**
+> A sophisticated task management system featuring custom UI controls, MVVM pattern, and persistent JSON data storage. 
+
+---
+
+### **📫 Get in Touch**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saud_Al--Deham-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/%D8%B3%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%AF%D9%87%D8%A7%D9%85-4262b925a)
+[![Email](https://img.shields.io/badge/Email-saudnaser1594@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saudnaser1594@gmail.com)
+
+---
+
+### **📊 GitHub Activity**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saudaldeham&show_icons=true&theme=quietlight&hide_border=true" alt="Saud's GitHub Stats" />
 </p>
+
